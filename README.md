@@ -1,6 +1,6 @@
 <h3 align="center">
 
-  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+  [![Sparkline](https://stars.medv.io/IngeScobedo/badges.svg)](https://stars.medv.io/Naereen/badges)
 </h3>
 <h3 align="center">
   Bienvenido a el perfil de Alan
