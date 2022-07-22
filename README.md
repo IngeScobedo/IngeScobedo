@@ -5,6 +5,8 @@
 <h3 align="center">
   Bienvenido a el perfil de Alan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mientras+unos+sufren+por+amor;Yo+sufro+porque+no+compila)](https://git.io/typing-svg)
 </h3>
 <h3 align="center">
 
@@ -38,7 +40,7 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
