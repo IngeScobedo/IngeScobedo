@@ -1,9 +1,18 @@
 <h3 align="center">
+
+  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+</h3>
+<h3 align="center">
   Bienvenido a el perfil de Alan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<h3 align="center">
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IngeScobedo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</h3>
+
+
 
 ## 🛠️ My favorite tools
 
@@ -29,7 +38,7 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
