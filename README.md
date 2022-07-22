@@ -4,10 +4,7 @@
 </h3>
 
 <p align="center">
-  [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-  [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-  [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-  [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
+  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br/>
@@ -36,8 +33,8 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=IngeScobedo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IngeScobedo/IngeScobedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
