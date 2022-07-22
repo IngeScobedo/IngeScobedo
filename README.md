@@ -11,6 +11,9 @@
 <h3 align="center">
 
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IngeScobedo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+  <br/>
+  
   ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </h3>
@@ -41,8 +44,17 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<h3 align="center">
+
+
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngeScobedo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+</h3>
+
 
 <!--
 **IngeScobedo/IngeScobedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
