@@ -11,7 +11,7 @@
 <h3 align="center">
 
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=IngeScobedo&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </h3>
 
